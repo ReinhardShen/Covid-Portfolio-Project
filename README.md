@@ -1,6 +1,6 @@
 # Covid Portfolio Project
 
-![alt text]([http://url/to/img.png](https://public.tableau.com/views/CovidDashboard1stPortfolio/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+![Dashboard 1](https://github.com/ReinhardShen/Covid-Portfolio-Project/assets/139752072/2050e6a5-4921-48a3-a15e-356c8143ad9c)
 
 Name: Reinhard Shanahan Simba
 
